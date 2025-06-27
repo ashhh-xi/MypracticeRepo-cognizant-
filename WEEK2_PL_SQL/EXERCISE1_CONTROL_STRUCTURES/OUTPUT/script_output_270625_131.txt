@@ -1,0 +1,134 @@
+
+
+Table CUSTOMERS created.
+
+Elapsed: 00:00:00.014
+
+ORA-00955: name is already used by an existing object
+
+https://docs.oracle.com/error-help/db/ora-00955/Error at Line: 4 Column: 0 
+
+
+ORA-00942: table or view "SQL_3K6JJ700W4V90YS8R06BJ2CX33"."EMPLOYEES" does not exist
+
+https://docs.oracle.com/error-help/db/ora-00942/Error at Line: 4 Column: 0 
+
+
+
+Table ACCOUNTS created.
+
+Elapsed: 00:00:00.019
+
+
+Table TRANSACTIONS created.
+
+Elapsed: 00:00:00.012
+
+
+Table LOANS created.
+
+Elapsed: 00:00:00.013
+
+
+Table EMPLOYEES created.
+
+Elapsed: 00:00:00.010
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.015
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.002
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.013
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.002
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.011
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.011
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.002
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.011
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.002
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.086
+NAME          ISVIP 
+------------- ----- 
+John Doe      N     
+Jane Smith    N     
+Elder Sam     N     
+Richie Rich   N     
+
+Elapsed: 00:00:00.009
+4 rows selected. 
+
+LOANID NAME        ENDDATE                   
+------ ----------- ------------------------- 
+2      Elder Sam   07/12/2025, 12:50:46 PM   
+
+Elapsed: 00:00:00.013
+1 rows selected. 
+
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.013
+
+Reminder: Loan ID 2 for customer Elder Sam is due on 2025-07-12
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.010
